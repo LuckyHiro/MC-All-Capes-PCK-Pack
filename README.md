@@ -1,6 +1,6 @@
 # All Capes PCK Pack
 
-A Minecraft skin pack for legacy console containing all capes
+A Minecraft skin pack for legacy console containing all capes. The Pack will be updated when future capes appear.
 
 ## Capes In The Pack As Of 11-25-26:
 
